@@ -14,7 +14,7 @@ export default function Home() {
           <UberLogo src="https://i.ibb.co/84stgjq/uber-technologies-new-20218114.jpg" />
           <Profile>
             <Name>Zee Shan</Name>
-            <UserImage src="/zee.jfif" />
+            <UserImage src="/zee_animate.jpg." />
           </Profile>
         </Header>
         <ActionButtons>
